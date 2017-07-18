@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculationTesting" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-07-18T08:14:30" hostname="ws-lv-cp1141" time="0.016">
+  <properties/>
+  <testcase name="TestDivide" classname="CalculationTesting" time="0.016"/>
+  <testcase name="TestAdd" classname="CalculationTesting" time="0.0"/>
+  <testcase name="TestMultiply" classname="CalculationTesting" time="0.0"/>
+  <testcase name="TestSubstract" classname="CalculationTesting" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
